@@ -1,4 +1,4 @@
-<h1 align="center">Hexagonal Architecture Typescript Service Skeleton</h1>
+<h1 align="center">Hexagonal Architecture Typescript Service</h1>
 
 <p align="center">
   Skeleton for new typescript services based on hexagonal architecture
